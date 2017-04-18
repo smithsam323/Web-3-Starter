@@ -93,6 +93,102 @@
 		"oAP": "\/build\/html\/scripts.html",
 		"oF": 0
 		},
+	"\/img\/favicons\/android-chrome-192x192.png": {
+		"ft": 32768,
+		"iS": 42039,
+		"oA": 0,
+		"oAP": "\/build\/img\/favicons\/android-chrome-192x192.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/favicons\/android-chrome-512x512.png": {
+		"ft": 32768,
+		"iS": 230462,
+		"oA": 0,
+		"oAP": "\/build\/img\/favicons\/android-chrome-512x512.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/favicons\/apple-touch-icon.png": {
+		"ft": 32768,
+		"iS": 37423,
+		"oA": 0,
+		"oAP": "\/build\/img\/favicons\/apple-touch-icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/favicons\/browserconfig.xml": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/img\/favicons\/browserconfig.xml",
+		"oF": 0
+		},
+	"\/img\/favicons\/favicon-16x16.png": {
+		"ft": 32768,
+		"iS": 1227,
+		"oA": 0,
+		"oAP": "\/build\/img\/favicons\/favicon-16x16.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/favicons\/favicon-32x32.png": {
+		"ft": 32768,
+		"iS": 2420,
+		"oA": 0,
+		"oAP": "\/build\/img\/favicons\/favicon-32x32.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/favicons\/favicon.ico": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/img\/favicons\/favicon.ico",
+		"oF": 0
+		},
+	"\/img\/favicons\/manifest.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/build\/img\/favicons\/manifest-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/img\/favicons\/mstile-150x150.png": {
+		"ft": 32768,
+		"iS": 22010,
+		"oA": 0,
+		"oAP": "\/build\/img\/favicons\/mstile-150x150.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/favicons\/safari-pinned-tab.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/build\/img\/favicons\/safari-pinned-tab.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"\/img\/menu.png": {
 		"ft": 32768,
 		"iS": 598,
