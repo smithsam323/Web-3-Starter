@@ -9,6 +9,12 @@
 	],
 "creatorBuild": "25813",
 "files": {
+	"\/build": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "\/build\/build",
+		"oF": 0
+		},
 	"\/css\/_semantic.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -138,10 +144,10 @@
 	},
 "projectAttributes": {
 	"creationDate": 513040678,
-	"displayValue": "web-3-starter-master",
+	"displayValue": "Web-3-Starter",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-dunnoGirl",
-	"lastBuiltDate": 514237180
+	"lastBuiltDate": 514247130
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
