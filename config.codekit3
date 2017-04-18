@@ -15,6 +15,12 @@
 		"oAP": "\/build\/build",
 		"oF": 0
 		},
+	"\/config.xml": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/config.xml",
+		"oF": 0
+		},
 	"\/css\/_semantic.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -91,6 +97,12 @@
 		"ft": 2048,
 		"oA": 1,
 		"oAP": "\/build\/html\/scripts.html",
+		"oF": 0
+		},
+	"\/img\/config.xml": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/img\/config.xml",
 		"oF": 0
 		},
 	"\/img\/favicons\/android-chrome-192x192.png": {
